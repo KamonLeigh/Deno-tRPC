@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Aardonyx",
+    "description": "An early stage in the evolution of sauropods."
+  },
+  {
+    "name": "Abelisaurus",
+    "description": "\"Abel's lizard\" has been reconstructed from a single skull."
+  },
+  {
+    "name": "Abrictosaurus",
+    "description": "An early relative of Heterodontosaurus."
+  },
+  {
+    "name": "Abrosaurus",
+    "description": "A close Asian relative of Camarasaurus."
+  },
+  {
+    "name": "Denosaur",
+    "description": "A dinosaur that lives in the deno ecosystem. Eats Nodes for breakfast."
+  }
+]
